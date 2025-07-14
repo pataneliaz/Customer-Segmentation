@@ -111,6 +111,7 @@ Segment customers based on demographic and behavioral data using **K-Means clust
 - `Project.ipynb`: Full pipeline with explanations and results
 - `New 1000 Sales Record.xlsx`: Original dataset
 - `/images/`: https://1drv.ms/i/c/a9064c978fcc341e/EVYSuC5mrElKqR7ygCzutQ0BqyU8kLbe0OMbNJRWlwE9sQ?e=ARzItg
+
 ### 📷 Key Outputs:
 - Elbow Curve
 - Silhouette Plot
